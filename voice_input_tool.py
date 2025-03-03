@@ -500,7 +500,7 @@ def main():
     3. 等待用戶操作
     """
     tool = VoiceInputTool()
-    keyboard.add_hotkey('ctrl+alt+v', tool.toggle_window)
+    keyboard.add_hotkey('win+alt+h', tool.toggle_window)
     keyboard.wait()
 
 if __name__ == "__main__":
