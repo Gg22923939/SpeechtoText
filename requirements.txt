@@ -1,0 +1,4 @@
+pyaudio==0.2.13
+SpeechRecognition==3.10.0
+keyboard==0.13.5
+pywin32==306 
