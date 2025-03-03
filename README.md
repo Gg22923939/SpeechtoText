@@ -83,7 +83,7 @@ python voice_input_tool.py
 3. 建議在安靜的環境中使用
 
 ## 開發資訊
-- 作者：[您的名字]
+- 作者：[J.W.]
 - 版本：1.0.0
 - 授權：MIT License
 
